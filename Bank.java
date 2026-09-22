@@ -1,4 +1,3 @@
-package ATMbankjava;
 import java.util.ArrayList;
 
 public class Bank {
